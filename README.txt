@@ -1,1 +1,13 @@
-AL SHAAFI Call Tracker portfolio screenshots. Customer phone numbers, customer names/order identifiers, and employee identifiers are masked where visible. Production source code and customer records are not included.
+## App Screenshots
+
+### Dashboard
+![Dashboard](01-dashboard.png)
+
+### Call History
+![Call History](06-call-history.png)
+
+### Dashboard Highlights
+![Dashboard Highlights](07-dashboard-highlights.png)
+
+### Dashboard Performance
+![Performance](09-dashboard-performance.png)
