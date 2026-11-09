@@ -1,0 +1,1 @@
+AL SHAAFI Call Tracker portfolio screenshots. Customer phone numbers, customer names/order identifiers, and employee identifiers are masked where visible. Production source code and customer records are not included.
