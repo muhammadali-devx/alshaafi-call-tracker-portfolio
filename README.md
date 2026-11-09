@@ -42,7 +42,7 @@ Feature availability can depend on Android version, runtime permissions, device 
 4. Background synchronization sends pending records to the connected backend.
 5. Background workers support selected customer SMS workflows where enabled and permitted.
 
-See [`docs/architecture.md`](docs/architecture.md) for a concise component overview.
+See [architecture.md](architecture.md) for a concise component overview.
 
 ## Privacy and permissions
 
